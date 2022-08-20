@@ -1,3 +1,3 @@
-Put your answer files here.
+# LSTM-Phrasal-Chunks-Classifier
 
-Remember to put your README.username in this directory as well.
+A LSTM model classifies noisy words into phrasal chunks. 
